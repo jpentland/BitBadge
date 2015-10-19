@@ -1,0 +1,2 @@
+# BitBadge
+BitBadge ethereum project
