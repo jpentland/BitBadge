@@ -1,5 +1,9 @@
 development:
-    Registry
+  Registry:
     gas_limit: 500000
     gas_price: 10000000000000
+
 staging:
+  Registry:
+    gas_limit: 500000
+    gas_price: 10000000000000
